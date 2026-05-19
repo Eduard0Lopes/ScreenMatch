@@ -1,4 +1,6 @@
-public class Filme {
+package Aula;
+
+public class Filme_BaseAula {
     String nome;
     int anoLancamento;
 //    boolean incluidoPlano;
