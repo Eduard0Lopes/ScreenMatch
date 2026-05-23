@@ -1,4 +1,4 @@
-package Exercicios.HerancaAnimal;
+package Exercicios.Heranca.HerancaAnimal;
 
 public class Gato extends Animal{
     @Override

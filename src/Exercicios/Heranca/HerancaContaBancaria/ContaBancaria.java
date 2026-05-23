@@ -1,4 +1,4 @@
-package Exercicios.HerancaContaBancaria;
+package Exercicios.Heranca.HerancaContaBancaria;
 
 public class ContaBancaria {
     protected double saldo;

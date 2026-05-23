@@ -1,4 +1,4 @@
-package Exercicios.HerancaContaBancaria;
+package Exercicios.Heranca.HerancaContaBancaria;
 
 public class TestarConta {
     static void main() {

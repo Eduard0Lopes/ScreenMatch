@@ -1,4 +1,4 @@
-package Exercicios.HerencaCarro.modelos;
+package Exercicios.Heranca.HerencaCarro;
 
 public class Carro {
     private String modelo;
