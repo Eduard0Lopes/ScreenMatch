@@ -1,4 +1,4 @@
-package br.com.alura.DesafioModulo.Modelos;
+package Exercicios.DesafioModulo.Modelos;
 
 public class Favoritas {
     public void inclui(Audio audio) {

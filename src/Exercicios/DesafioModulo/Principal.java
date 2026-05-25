@@ -1,8 +1,8 @@
-package br.com.alura.DesafioModulo;
+package Exercicios.DesafioModulo;
 
-import br.com.alura.DesafioModulo.Modelos.Favoritas;
-import br.com.alura.DesafioModulo.Modelos.Musica;
-import br.com.alura.DesafioModulo.Modelos.Podcast;
+import Exercicios.DesafioModulo.Modelos.Favoritas;
+import Exercicios.DesafioModulo.Modelos.Musica;
+import Exercicios.DesafioModulo.Modelos.Podcast;
 
 public class Principal {
     static void main() {

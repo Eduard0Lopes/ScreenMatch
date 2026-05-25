@@ -1,4 +1,4 @@
-package br.com.alura.DesafioModulo.Modelos;
+package Exercicios.DesafioModulo.Modelos;
 
 public class Musica extends Audio {
     private String album;
